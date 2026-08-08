@@ -1,0 +1,6 @@
+{
+  "name": "Wolfpack Sovereign",
+  "description": "Comprehensive Dark Fantasy Werewolf (Ma Sói) Realtime Online Game with 61 Roles, Host GM Console, Role Setup, and Mobile UI Optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
